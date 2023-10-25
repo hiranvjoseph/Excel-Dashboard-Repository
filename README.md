@@ -20,7 +20,7 @@ To explore and analyze a specific Excel project, follow these steps:
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/hiranvjoseph/Excel_Dashboard.git
+   git clone https://github.com/hiranvjoseph/Excel-Dashboard-Repository.git
   
 2. Navigate to the project folder you are interested in.
 
